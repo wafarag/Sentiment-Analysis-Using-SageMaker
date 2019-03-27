@@ -1,8 +1,8 @@
 # Sentiment-Analysis-Using-SageMaker
 
 <p float="left">
-  <img src="pics/rnn.png" width="500" alt="Combined Image" />
-  <img src="pics/sagemaker.jpg" width="500" alt="Combined Image" /> 
+  <img src="pics/rnn.png" width="400" alt="Combined Image" />
+  <img src="pics/sagemaker.jpg" width="400" alt="Combined Image" /> 
 </p>
 
 
