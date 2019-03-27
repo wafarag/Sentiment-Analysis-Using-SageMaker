@@ -2,7 +2,7 @@
 
 <p float="left">
   <img src="pics/rnn.png" width="500" alt="Combined Image" />
-  <img src="pics/sagemaker.jpg" width="300" alt="Combined Image" /> 
+  <img src="pics/sagemaker.jpg" width="500" alt="Combined Image" /> 
 </p>
 
 
